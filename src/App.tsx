@@ -244,7 +244,7 @@ const App = () => {
                     steady friendship from afar. For two years we checked on
                     each other, built trust amd shared the little things that
                     mattered the most. When she visited the country, we finally
-                    met ain person - and from that very day it just felt right.
+                    met in person - and from that very day it just felt right.
                     Natural and effortless. Forever was suddenly something real
                     with her. Since then we have shared laughter, deep
                     conversations, fights, tears, and a bond thats only grown
