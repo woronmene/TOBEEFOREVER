@@ -1,0 +1,56 @@
+/* load tailwindcss */
+@import "tailwindcss";
+
+/* load font family */
+@font-face {
+    font-family: 'Instrument Serif';
+    src: url('./assets/fonts/Instrument_Serif/InstrumentSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Instrument Serif';
+    src: url('./assets/fonts/Instrument_Serif/InstrumentSerif-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Set up design tokens with @theme */
+@theme {
+    /* Breakpoints */
+    --breakpoint-sm: 480px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 976px;
+    --breakpoint-xl: 1440px;
+
+    /* Fonts */
+    --font-main: "Instrument Serif", serif;
+}
+
+/* Make your container utility */
+@utility container {
+    margin-inline: auto;
+    padding-inline: 1rem;
+
+    /*   @screen sm {
+        padding-inline: 2rem;
+    }
+
+    @screen lg {
+        padding-inline: 4rem;
+    }
+
+    @screen xl {
+        padding-inline: 5rem;
+    }
+
+    @screen 2xl {
+        padding-inline: 6rem;
+    } */
+}
+
+/* Add your font-family utilities */
+@utility font-main {
+    font-family: var(--font-main);
+}
