@@ -212,7 +212,7 @@ const App = () => {
                   <Eventbox
                     iconUrl={after_party_icon}
                     time="6:00 PM"
-                    event="The after party begings!!!!"
+                    event="The after party begins!!!!"
                   />
                 </div>
               </div>
