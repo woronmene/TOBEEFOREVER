@@ -264,7 +264,7 @@ const App = () => {
         {/* main footer text area*/}
         <span className="container flex-1 flex justify-center items-center">
           <p className="text-[24px] md:text-[40px] text-[#FFFFFF] text-center whitespace-normal text-wrap">
-            Beatrice and Tomiwa says a very big thank you to everyone for the
+            Beatrice and Tomiwa say a very big thank you to everyone for the
             love and support...
           </p>
         </span>
