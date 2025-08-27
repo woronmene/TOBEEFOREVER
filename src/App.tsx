@@ -239,10 +239,10 @@ const App = () => {
                 {/* main text area*/}
                 <span className="flex-1 flex justify-center items-center">
                   <p className="max-w-[1100px] text-[16px] md:text-[24px] text-[#808080] text-center whitespace-normal text-wrap px-10 pb-10">
-                    We connected through a shared perspective- A conversation
+                    We connected through a shared perspective - a conversation
                     that stood out and lingered ! What followed was a quiet,
                     steady friendship from afar. For two years we checked on
-                    each other, built trust amd shared the little things that
+                    each other, built trust and shared the little things that
                     mattered the most. When she visited the country, we finally
                     met in person - and from that very day it just felt right.
                     Natural and effortless. Forever was suddenly something real
